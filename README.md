@@ -36,3 +36,5 @@ pip install -r requirements.txt
 Run the application:
 
 flask run
+
+![image](https://github.com/user-attachments/assets/5987b153-3e9b-402e-bc02-82eb60ab913f)
