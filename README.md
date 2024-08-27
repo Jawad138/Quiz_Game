@@ -1,6 +1,6 @@
 # Flask Quiz App
 
-This is a web-based quiz application built using Flask, HTML, CSS, and JavaScript. The app presents users with a set of random questions, checks their answers, and provides a score upon completion. The project was developed as part of my internship at EcodeCamp, where I focused on enhancing my Python and web development skills.
+This is a web-based quiz application built using Flask, HTML, CSS, and JavaScript. The app presents users with a set of random questions, checks their answers, and provides a score upon completion. The project was developed as part of my internship at EcodeCamp, where I focused on enhancing my Python and web development skills # Ecode Camp , EcodeCamp Internship.
 
 ## Features
 
